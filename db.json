@@ -1,20 +1,20 @@
 {
-"profiles":
+"account":
 [
   {
-    "id": 1,
-    "name": "john",
-    "age": 21
+    "AccountID": 1,
+    "AccountName": "Sanjeev Kumar Khanna HUF",
+    "GSTIN": "03ABCHS8711HZ1C"
   },
   {
-    "id": 2,
-    "name": "judy",
-    "age": 31
+    "AccountID": 2,
+    "AccountName": "Vivek Mehra HUF",
+    "GSTIN": "03ACDHS8711HZ1C"
   },
   {
-    "id": 3,
-    "name": "jack",
-    "age": 41
+    "AccountID": 3,
+    "AccountName": "Sanjeev Kumar Khanna HUF",
+    "GSTIN": "03ABCGS8711HZ1C"
   }
 ]
 }
