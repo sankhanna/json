@@ -2,17 +2,17 @@
 "account":
 [
   {
-    "AccountID": 1,
+    "id": 1,
     "AccountName": "Sanjeev Kumar",
     "GSTIN": "03ABCHS8711HZ1C"
   },
   {
-    "AccountID": 2,
+    "id": 2,
     "AccountName": "Vivek Mehra",
     "GSTIN": "03ACDHS8711HZ1C"
   },
   {
-    "AccountID": 3,
+    "id": 3,
     "AccountName": "Govind Sharma",
     "GSTIN": "03ABCGS8711HZ1C"
   }
@@ -20,14 +20,14 @@
 "Transaction":
 [
   {
-    "TransactionID": 1,
+    "id": 1,
     "Trandate": "12/12/2017",
     "AccountID": 1,
     "Debit": 1200.00,
     "Credit": 0
   },
   {
-    "TransactionID": 2,
+    "id": 2,
     "Trandate": "12/12/2017",
     "AccountID": 2,
     "Debit": 0,
