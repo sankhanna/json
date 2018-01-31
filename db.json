@@ -20,15 +20,15 @@
 "Transaction":
 [
   {
-    "TransactionID", 1
-    "Trandate", "12/12/2017",
+    "TransactionID": 1,
+    "Trandate": "12/12/2017",
     "AccountID": 1,
     "Debit": 1200.00,
     "Credit": 0
   },
   {
-    "TransactionID", 1
-    "Trandate", "12/12/2017",
+    "TransactionID": 2,
+    "Trandate": "12/12/2017",
     "AccountID": 2,
     "Debit": 0,
     "Credit": 1200.00
