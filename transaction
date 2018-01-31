@@ -1,0 +1,21 @@
+{
+"Transaction":
+[
+  {
+    "TransactionID", 1
+    "AccountID": 1,
+    "Type": "D",
+    "GSTIN": "03ABCHS8711HZ1C"
+  },
+  {
+    "AccountID": 2,
+    "AccountName": "Vivek Mehra HUF",
+    "GSTIN": "03ACDHS8711HZ1C"
+  },
+  {
+    "AccountID": 3,
+    "AccountName": "Sanjeev Kumar Khanna HUF",
+    "GSTIN": "03ABCGS8711HZ1C"
+  }
+]
+}
