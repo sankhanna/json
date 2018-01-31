@@ -3,17 +3,17 @@
 [
   {
     "AccountID": 1,
-    "AccountName": "Sanjeev Kumar Khanna HUF",
+    "AccountName": "Sanjeev Kumar",
     "GSTIN": "03ABCHS8711HZ1C"
   },
   {
     "AccountID": 2,
-    "AccountName": "Vivek Mehra HUF",
+    "AccountName": "Vivek Mehra",
     "GSTIN": "03ACDHS8711HZ1C"
   },
   {
     "AccountID": 3,
-    "AccountName": "Sanjeev Kumar Khanna HUF",
+    "AccountName": "Govind Sharma",
     "GSTIN": "03ABCGS8711HZ1C"
   }
 ]
