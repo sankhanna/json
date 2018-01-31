@@ -16,5 +16,22 @@
     "AccountName": "Govind Sharma",
     "GSTIN": "03ABCGS8711HZ1C"
   }
+],
+"Transaction":
+[
+  {
+    "TransactionID", 1
+    "Trandate", "12/12/2017",
+    "AccountID": 1,
+    "Debit": 1200.00,
+    "Credit": 0
+  },
+  {
+    "TransactionID", 1
+    "Trandate", "12/12/2017",
+    "AccountID": 2,
+    "Debit": 0,
+    "Credit": 1200.00
+  }
 ]
 }
